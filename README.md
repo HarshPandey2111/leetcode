@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/HarshPandey2111/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/HarshPandey2111/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/HarshPandey2111/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
