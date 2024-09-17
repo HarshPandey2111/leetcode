@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HarshPandey2111/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -20,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/HarshPandey2111/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshPandey2111/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
