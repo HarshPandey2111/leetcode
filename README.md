@@ -14,6 +14,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/HarshPandey2111/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HarshPandey2111/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
