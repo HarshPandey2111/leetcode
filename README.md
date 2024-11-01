@@ -10,6 +10,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HarshPandey2111/leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/HarshPandey2111/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/HarshPandey2111/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
