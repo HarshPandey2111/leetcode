@@ -56,6 +56,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HarshPandey2111/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshPandey2111/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshPandey2111/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HarshPandey2111/leetcode/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -208,4 +210,8 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
