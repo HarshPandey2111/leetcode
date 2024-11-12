@@ -53,6 +53,7 @@
 | [2411-spiral-matrix-iv](https://github.com/HarshPandey2111/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshPandey2111/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
+| [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HarshPandey2111/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +153,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
