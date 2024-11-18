@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HarshPandey2111/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HarshPandey2111/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/HarshPandey2111/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
