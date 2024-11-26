@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
