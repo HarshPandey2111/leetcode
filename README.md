@@ -61,6 +61,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HarshPandey2111/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshPandey2111/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshPandey2111/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshPandey2111/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
