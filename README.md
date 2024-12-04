@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/HarshPandey2111/leetcode/tree/master/1972-rotating-the-box) |
 ## String
 |  |
@@ -21,6 +22,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshPandey2111/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HarshPandey2111/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -212,6 +214,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/HarshPandey2111/leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/HarshPandey2111/leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
