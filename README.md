@@ -158,11 +158,13 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/HarshPandey2111/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/HarshPandey2111/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
