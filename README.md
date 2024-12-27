@@ -42,6 +42,7 @@
 | [0010-regular-expression-matching](https://github.com/HarshPandey2111/leetcode/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
+| [1063-best-sightseeing-pair](https://github.com/HarshPandey2111/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
@@ -50,6 +51,7 @@
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/HarshPandey2111/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1063-best-sightseeing-pair](https://github.com/HarshPandey2111/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/HarshPandey2111/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
