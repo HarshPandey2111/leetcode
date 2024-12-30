@@ -44,6 +44,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [1063-best-sightseeing-pair](https://github.com/HarshPandey2111/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [2562-count-ways-to-build-good-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
