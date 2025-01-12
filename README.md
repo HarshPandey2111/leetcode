@@ -31,6 +31,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshPandey2111/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HarshPandey2111/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -94,6 +95,7 @@
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
