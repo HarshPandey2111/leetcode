@@ -85,6 +85,7 @@
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/HarshPandey2111/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshPandey2111/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -223,6 +224,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshPandey2111/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshPandey2111/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/HarshPandey2111/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HarshPandey2111/leetcode/tree/master/3394-minimum-array-end) |
