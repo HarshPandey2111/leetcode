@@ -62,6 +62,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshPandey2111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshPandey2111/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/HarshPandey2111/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0906-walking-robot-simulation](https://github.com/HarshPandey2111/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HarshPandey2111/leetcode/tree/master/0952-word-subsets) |
@@ -135,6 +137,7 @@
 | [0050-powx-n](https://github.com/HarshPandey2111/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -180,6 +183,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/HarshPandey2111/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HarshPandey2111/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -233,6 +237,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -263,6 +268,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
