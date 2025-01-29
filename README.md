@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/HarshPandey2111/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshPandey2111/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshPandey2111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/HarshPandey2111/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -69,6 +70,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshPandey2111/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshPandey2111/leetcode/tree/master/0283-move-zeroes) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HarshPandey2111/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/0349-intersection-of-two-arrays) |
