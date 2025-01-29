@@ -165,6 +165,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HarshPandey2111/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HarshPandey2111/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -349,6 +352,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
