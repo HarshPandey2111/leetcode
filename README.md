@@ -73,6 +73,7 @@
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
@@ -290,6 +292,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -306,6 +309,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HarshPandey2111/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
@@ -377,4 +381,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
