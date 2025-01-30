@@ -58,6 +58,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarshPandey2111/leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [1063-best-sightseeing-pair](https://github.com/HarshPandey2111/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -73,6 +74,7 @@
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
