@@ -74,6 +74,7 @@
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
@@ -372,6 +374,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
