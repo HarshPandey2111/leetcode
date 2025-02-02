@@ -23,6 +23,7 @@
 | [0006-zigzag-conversion](https://github.com/HarshPandey2111/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/HarshPandey2111/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/HarshPandey2111/leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/HarshPandey2111/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/HarshPandey2111/leetcode/tree/master/0214-shortest-palindrome) |
@@ -138,6 +139,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HarshPandey2111/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HarshPandey2111/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/HarshPandey2111/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
