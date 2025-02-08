@@ -168,6 +168,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HarshPandey2111/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshPandey2111/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HarshPandey2111/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshPandey2111/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -195,6 +196,7 @@
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Graph
 |  |
@@ -426,4 +428,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshPandey2111/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
