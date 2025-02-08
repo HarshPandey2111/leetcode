@@ -101,6 +101,7 @@
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/HarshPandey2111/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HarshPandey2111/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -253,6 +254,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshPandey2111/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HarshPandey2111/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HarshPandey2111/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -395,6 +397,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
 |  |
