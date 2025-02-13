@@ -31,6 +31,7 @@
 | [0014-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/HarshPandey2111/leetcode/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HarshPandey2111/leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/HarshPandey2111/leetcode/tree/master/0214-shortest-palindrome) |
@@ -158,6 +159,7 @@
 | [0013-roman-to-integer](https://github.com/HarshPandey2111/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshPandey2111/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshPandey2111/leetcode/tree/master/0217-contains-duplicate) |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshPandey2111/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshPandey2111/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshPandey2111/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
