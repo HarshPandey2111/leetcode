@@ -106,6 +106,7 @@
 | [1364-tuple-with-same-product](https://github.com/HarshPandey2111/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -198,6 +199,7 @@
 | [0264-ugly-number-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -267,6 +269,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HarshPandey2111/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HarshPandey2111/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/HarshPandey2111/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HarshPandey2111/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -452,9 +455,14 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
