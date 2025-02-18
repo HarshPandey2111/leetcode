@@ -55,6 +55,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/HarshPandey2111/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/2580-circular-sentence) |
@@ -154,6 +155,7 @@
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/HarshPandey2111/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
@@ -430,10 +432,12 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshPandey2111/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/HarshPandey2111/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Union Find
 |  |
 | ------- |
