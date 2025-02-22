@@ -41,6 +41,7 @@
 | [0812-rotate-string](https://github.com/HarshPandey2111/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HarshPandey2111/leetcode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/HarshPandey2111/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshPandey2111/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshPandey2111/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -298,6 +299,7 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HarshPandey2111/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -306,6 +308,7 @@
 | [0386-lexicographical-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/HarshPandey2111/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -327,6 +330,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
