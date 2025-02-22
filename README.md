@@ -91,6 +91,7 @@
 | [0041-first-missing-positive](https://github.com/HarshPandey2111/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshPandey2111/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HarshPandey2111/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -268,6 +270,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/HarshPandey2111/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/HarshPandey2111/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
