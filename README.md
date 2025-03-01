@@ -18,6 +18,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HarshPandey2111/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/HarshPandey2111/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [2465-shifting-letters-ii](https://github.com/HarshPandey2111/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshPandey2111/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2551-apply-operations-to-an-array](https://github.com/HarshPandey2111/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshPandey2111/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshPandey2111/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -268,6 +270,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HarshPandey2111/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/HarshPandey2111/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/HarshPandey2111/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Binary Search
 |  |
