@@ -153,6 +153,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshPandey2111/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshPandey2111/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -209,6 +210,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/HarshPandey2111/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshPandey2111/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HarshPandey2111/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -227,6 +229,7 @@
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [2411-spiral-matrix-iv](https://github.com/HarshPandey2111/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HarshPandey2111/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
