@@ -229,6 +229,7 @@
 | [2155-find-missing-observations](https://github.com/HarshPandey2111/leetcode/tree/master/2155-find-missing-observations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/HarshPandey2111/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshPandey2111/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
@@ -469,6 +470,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/HarshPandey2111/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/HarshPandey2111/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshPandey2111/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
