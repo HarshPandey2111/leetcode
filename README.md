@@ -236,6 +236,7 @@
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshPandey2111/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/HarshPandey2111/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
@@ -523,4 +524,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/HarshPandey2111/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
