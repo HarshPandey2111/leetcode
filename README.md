@@ -67,6 +67,7 @@
 | [2580-circular-sentence](https://github.com/HarshPandey2111/leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshPandey2111/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HarshPandey2111/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshPandey2111/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -86,6 +87,7 @@
 | [1063-best-sightseeing-pair](https://github.com/HarshPandey2111/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2562-count-ways-to-build-good-strings](https://github.com/HarshPandey2111/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/HarshPandey2111/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Array
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshPandey2111/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
