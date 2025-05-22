@@ -168,6 +168,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HarshPandey2111/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/HarshPandey2111/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
@@ -321,6 +324,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/HarshPandey2111/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/HarshPandey2111/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HarshPandey2111/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -426,6 +430,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
 |  |
 | ------- |
