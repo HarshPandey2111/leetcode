@@ -242,6 +242,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshPandey2111/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshPandey2111/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/HarshPandey2111/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
@@ -536,4 +537,9 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/HarshPandey2111/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
