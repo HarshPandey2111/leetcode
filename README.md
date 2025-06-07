@@ -72,6 +72,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HarshPandey2111/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HarshPandey2111/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshPandey2111/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -182,6 +183,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HarshPandey2111/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshPandey2111/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HarshPandey2111/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HarshPandey2111/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HarshPandey2111/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -256,6 +259,7 @@
 | [2434-design-a-number-container-system](https://github.com/HarshPandey2111/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2803-modify-graph-edge-weights](https://github.com/HarshPandey2111/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HarshPandey2111/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/HarshPandey2111/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
@@ -497,6 +501,7 @@
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Union Find
 |  |
 | ------- |
