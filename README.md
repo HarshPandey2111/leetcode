@@ -207,6 +207,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/HarshPandey2111/leetcode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/HarshPandey2111/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HarshPandey2111/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HarshPandey2111/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -349,6 +350,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/HarshPandey2111/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -360,6 +362,7 @@
 | [0386-lexicographical-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -372,6 +375,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HarshPandey2111/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HarshPandey2111/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -385,6 +389,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
@@ -442,6 +447,7 @@
 | [0268-missing-number](https://github.com/HarshPandey2111/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HarshPandey2111/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshPandey2111/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HarshPandey2111/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
