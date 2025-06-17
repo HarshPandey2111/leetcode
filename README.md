@@ -351,6 +351,7 @@
 | [0101-symmetric-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshPandey2111/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -363,6 +364,7 @@
 | [0101-symmetric-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshPandey2111/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/HarshPandey2111/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/HarshPandey2111/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
@@ -396,6 +398,7 @@
 | [0101-symmetric-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshPandey2111/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/HarshPandey2111/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
