@@ -114,6 +114,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HarshPandey2111/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/HarshPandey2111/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/HarshPandey2111/leetcode/tree/master/0539-minimum-time-difference) |
 | [0854-making-a-large-island](https://github.com/HarshPandey2111/leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/HarshPandey2111/leetcode/tree/master/0890-lemonade-change) |
@@ -531,6 +532,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -595,4 +597,8 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshPandey2111/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
