@@ -45,6 +45,7 @@
 | [0812-rotate-string](https://github.com/HarshPandey2111/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HarshPandey2111/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HarshPandey2111/leetcode/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/HarshPandey2111/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshPandey2111/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -533,6 +534,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshPandey2111/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/HarshPandey2111/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/HarshPandey2111/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HarshPandey2111/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HarshPandey2111/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshPandey2111/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
